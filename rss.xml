@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>SSL/TLS Tests</title>
+<link>https://github.com/damascene/s-check</link>
+<description>Test feeds to check rss/atom news readers security</description>
+<item>
+<title>SSLLabs Multiple Tests</title>
+<link>https://www.ssllabs.com/ssltest/viewMyClient.html</link>
+<guid>https://www.ssllabs.com/ssltest/viewMyClient.html</guid>
+<pubDate>Fri, 12 Feb 2016 11:00:00 GMT</pubDate>
+<description>SSLLabs Multiple Tests.</description>
+</item>
+<item>
+<title>Subresource Certificates Valedation</title>
+<link>https://rya.nc/https-script.html</link>
+<guid>https://rya.nc/https-script.html</guid>
+<pubDate>Wed, 11 Feb 2016 11:00:00 GMT</pubDate>
+<description>Subresource Certificates Valedation.</description>
+</item>
+<item>
+<title>Howsmyssl Tests</title>
+<link>https://www.howsmyssl.com/</link>
+<guid>https://www.howsmyssl.com/</guid>
+<pubDate>Tu, 10 Feb 2016 11:00:00 GMT</pubDate>
+<description>Howsmyssl Tests.</description>
+</item>
+</channel>
+</rss>
